@@ -1,1 +1,33 @@
-ugkgkuguilfyiugiug
+ls: Lists files and directories in the current directory.
+
+Example: ls - Lists files and directories in the current directory.
+cd: Changes the current directory.
+
+Example: cd /home - Changes the current directory to "/home".
+pwd: Prints the current working directory.
+
+Example: pwd - Displays the current working directory.
+mkdir: Creates a new directory.
+
+Example: mkdir documents - Creates a directory named "documents".
+rm: Removes files and directories.
+
+Example: rm file.txt - Deletes a file named "file.txt".
+Example: rm -r directory - Deletes a directory and its contents recursively.
+cp: Copies files and directories.
+
+Example: cp file.txt newfile.txt - Copies "file.txt" to "newfile.txt".
+Example: cp -r directory newdirectory - Copies a directory and its contents recursively.
+mv: Moves or renames files and directories.
+
+Example: mv file.txt newdirectory - Moves "file.txt" to the "newdirectory" directory.
+Example: mv file.txt renamedfile.txt - Renames "file.txt" to "renamedfile.txt".
+cat: Displays the contents of a file.
+
+Example: cat file.txt - Prints the contents of "file.txt" to the terminal.
+grep: Searches for a pattern in files.
+
+Example: grep "example" file.txt - Searches for the word "example" in "file.txt".
+chmod: Changes the permissions of files and directories.
+
+Example: chmod +x script.sh
